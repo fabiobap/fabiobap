@@ -12,7 +12,6 @@ I am a backend developer with a passion for PHP. I started my journey with Java 
 * 🚀  I'm currently working on [Payment gateway integrations](http://https://fabiobaptista.com.br)
 * 🧠  I'm learning Java Spring Boot and React Native atm!
 * 🤝  I'm open to collaborate on any kind of challenging project!
-* ⚡  I am Iron man, do tell everyone!
 
 ### Skills
 
