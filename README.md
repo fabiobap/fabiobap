@@ -10,7 +10,7 @@ I am a backend developer with a passion for PHP. I started my journey with Java 
 * 🖥️  See my portfolio at [My own website](http://https://fabiobaptista.com.br)
 * ✉️  You can contact me at [fabiobap.mkt@gmail.com](mailto:fabiobap.mkt@gmail.com)
 * 🚀  I'm currently working on [Payment gateway integrations](http://https://fabiobaptista.com.br)
-* 🧠  I'm learning Java Spring Boot and React Native atm!
+* 🧠  I'm learning Java Spring Boot and Go atm!
 * 🤝  I'm open to collaborate on any kind of challenging project!
 
 ### Skills
