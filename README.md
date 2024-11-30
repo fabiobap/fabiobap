@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 ---------------------
 
-I am a backend developer with a passion for PHP. I started my journey with Java and after a few trying differente languages and framework I migrated to PHP and never looked back. I love PHP frameworks and its ecosystem. I also do pretty well with the Javascript Frameworks as React and Vue.
+I am a backend developer with a passion for PHP. I started my journey with Java and after a few trying differente languages and frameworks I migrated to PHP and never looked back. I love PHP frameworks and its ecosystem. I also do pretty well with the Javascript Frameworks as React and Vue.
 
 * 🌍  I'm based in Rio de Janeiro - Brazil.
 * 🖥️  See my portfolio at [My own website](http://https://fabiobaptista.com.br)
